@@ -20,9 +20,9 @@
 
 Agent 写小说。写、审、改，全程接管。
 
-**现已支持原生英文创作** — `--lang en` 即可切换。
+**现已支持原生英文创作！** — `--lang en` 即可切换。
 
-**Native English support** — Set `--lang en` to write in English.
+**Native English support！** — Set `--lang en` to write in English. See [English README](README.en.md) for details.
 
 ## 快速开始
 
